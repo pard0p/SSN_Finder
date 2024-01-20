@@ -17,4 +17,5 @@ g++ -o malicious.exe main.cpp Assembly.obj
 
 ## Resources
 https://unprotect.it/media/archive/2023/04/02/HellsGate.pdf
+
 https://redops.at/en/blog/exploring-hells-gate
